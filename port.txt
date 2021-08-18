@@ -1,0 +1,41 @@
+Micro Services:
+
+Email Service:
+	port:9000
+	API:
+	POST - /email/send - send emails
+
+Api Gateway:
+	port:9002
+
+User Service:
+	port:9002
+
+Sector Service:
+	port:9003
+	API:
+	POST - /admin/sectors/add - add a new sector
+	GET - /admin/sectors/ - get all sectors
+
+Stock Exchange Service:
+	port:9004
+	API:
+	POST - /admin/stock-exchanges/add - add a new stockExchange
+	GET - /stock-exchanges -get all stock exchanges
+	GET - /stock-exchanges/length - get number of stockExchanges
+	DELETE - method not allowed
+
+Ipo Service:
+	port:9006
+	API:
+	POST - /ipos/ -add a new ipo
+
+Company Service:
+	port:9005
+	API:
+	GET - /companies/{id} - get company details by id
+	GET - /companies - get all company details
+	POST - /admin/companies/add - add a new company
+	DELETE - /admin/companies/{id} - deactivate a company
+	GET - /companies/length -get number of companies
+	

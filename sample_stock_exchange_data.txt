@@ -1,0 +1,18 @@
+{
+    "stockExchangeName":"NSE",
+    "brief":"National Stock Exchange of India Limited is the leading government owned stock exchange of India, located in Mumbai, Maharashtra. It is under the ownership of Some leading financial institutions, Banks and Insurance companies. NSE was established in 1992 as the first dematerialized electronic exchange in the country",
+    "contactAddress":"Mumbai, Maharashtra, India"
+}
+
+{
+    "stockExchangeName":"BSE",
+    "brief":"BSE Limited, also known as the Bombay Stock Exchange, is an Indian stock exchange located on Dalal Street in Mumbai. Established in 1875, it is Asia's oldest stock exchange. The BSE is the 9th largest stock exchange with an overall market capitalization of more than ₹2,18,730 billion on as of May 2021",
+    "contactAddress":"Mumbai, Maharashtra, India"
+}
+
+{
+    "id": 98,
+    "stockExchangeName": "Calcutta Stock Exchange",
+    "brief": "Calcutta Stock Exchange located at the Lyons Range, Kolkata, India, is the second oldest Indian government owned stock exchange in South Asia. It was founded on 1st December 1863 and ran from rented premises on No. 11 Strand Road with 16 leading share-brokers in Calcutta at that time",
+    "contactAddress": "Kolkata, India"
+}

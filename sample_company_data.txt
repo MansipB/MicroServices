@@ -1,0 +1,17 @@
+{
+"companyName":"Bajaj Capital Limited",
+"turnover":100000,
+"ceo":"Mr. K. K. Bajaj",
+"directors": [{
+    "directorName":"Mr. Rajiv Bajaj"
+},{
+    "directorName":"Mr. Sanjiv Bajaj" 
+}],
+"sector":{
+    "id":40,
+    "sectorName":"Finance"
+},
+
+"description":"Bajaj Capital Limited is among the premiere financial planning and investment advisory companies in India. The main activity of the Bajaj Capital Limited is to provide the corporate houses, high networth clients, institutional investors, individual investors, non resident Indians (NRIs) with financial planning and investment advisory services. The company is also the biggest provider of finance based products offered by several government, private and public organizations, investment products such as life insurance, general insurance, bonds, mutual funds, post office schemes, etc."
+}
+

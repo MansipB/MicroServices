@@ -1,0 +1,36 @@
+{
+    "id": 198,
+    "company": {
+        "id": 183,
+	"name":"Finance Business Limited"
+    },
+    "openingPricePerShare": 19,
+    "totalNumberOfShares": 60000,
+    "issueOpenDate": 30-06-2021,
+    "issueCloseDate": 05-07-2021,
+    "stockExchanges": [
+        {
+            "id": 159,
+        }
+    ]
+}
+
+{
+Company: "Zomato Limited"
+issueOpenDate : 14-07-2021
+issueCloseDate: 16-07-2021
+openingPricePerShare : 75
+stockExchanges:BSE,NSE
+totalNumberOfShares:9375
+}
+
+{
+Company: "Walpar Nutritions"
+issueOpenDate : 30-06-2021
+issueCloseDate: 5-07-2021
+openingPricePerShare : 55
+stockExchanges:SME,NSE
+totalNumberOfShares:1200000
+}
+
+
